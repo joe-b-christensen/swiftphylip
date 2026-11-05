@@ -1,0 +1,79 @@
+{
+ "AFR": {
+  "clade_size": 632,
+  "composition": {
+   "AFR": 630,
+   "AMR": 2,
+   "EAS": 0,
+   "EUR": 0,
+   "SAS": 0
+  },
+  "outside_largest_pure_clade_by_population": {
+   "ASW": 37,
+   "ACB": 35,
+   "LWK": 13,
+   "GWD": 1
+  }
+ },
+ "AMR": {
+  "clade_size": 1480,
+  "composition": {
+   "AFR": 661,
+   "AMR": 342,
+   "EAS": 0,
+   "EUR": 471,
+   "SAS": 6
+  },
+  "outside_largest_pure_clade_by_population": {
+   "PUR": 104,
+   "CLM": 92,
+   "MXL": 55,
+   "PEL": 20
+  }
+ },
+ "EAS": {
+  "clade_size": 496,
+  "composition": {
+   "AFR": 0,
+   "AMR": 0,
+   "EAS": 496,
+   "EUR": 0,
+   "SAS": 0
+  },
+  "outside_largest_pure_clade_by_population": {}
+ },
+ "EUR": {
+  "clade_size": 1510,
+  "composition": {
+   "AFR": 661,
+   "AMR": 345,
+   "EAS": 0,
+   "EUR": 497,
+   "SAS": 7
+  },
+  "outside_largest_pure_clade_by_population": {
+   "TSI": 104,
+   "IBS": 100,
+   "CEU": 83,
+   "GBR": 79,
+   "FIN": 41
+  }
+ },
+ "SAS": {
+  "clade_size": 972,
+  "composition": {
+   "AFR": 0,
+   "AMR": 2,
+   "EAS": 504,
+   "EUR": 0,
+   "SAS": 466
+  },
+  "outside_largest_pure_clade_by_population": {
+   "PJL": 61,
+   "GIH": 42,
+   "STU": 39,
+   "BEB": 32,
+   "ITU": 27
+  }
+ }
+}

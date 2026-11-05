@@ -1,0 +1,10 @@
+data/raw/
+data/dev/
+data/heldout/
+data/adversarial/
+reference/
+solver/build/
+application/out/
+application/scripts/ibs_dist
+/results/
+__pycache__/
